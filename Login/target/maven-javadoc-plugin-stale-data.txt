@@ -1,0 +1,55 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/NoName/.m2/repository/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar;C:/Users/NoName/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/NoName/Documents/NetBeansProjects/Login/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/NoName/Documents/NetBeansProjects/Login/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Login 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Login 1.0-SNAPSHOT API'
+Clases
+com.mycompany.login
+'C:/Users/NoName/Documents/NetBeansProjects/Login/src/main/java/Clases/CConexion.java'
+'C:/Users/NoName/Documents/NetBeansProjects/Login/src/main/java/Clases/CLogin.java'
+'C:/Users/NoName/Documents/NetBeansProjects/Login/src/main/java/com/mycompany/login/FormMenuPrincipal.java'
+'C:/Users/NoName/Documents/NetBeansProjects/Login/src/main/java/com/mycompany/login/Login.java'
+'C:/Users/NoName/Documents/NetBeansProjects/Login/src/main/java/com/mycompany/login/LoginFrame.java'
+C:\Users\NoName\.m2\repository\com\mysql\mysql-connector-j\8.0.31\mysql-connector-j-8.0.31.jar = 1672759167274
+C:\Users\NoName\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1672759167876
+C:\Users\NoName\Documents\NetBeansProjects\Login\src\main\java = 1672756769826
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\allclasses-index.html = 1672769665251
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\allpackages-index.html = 1672769665256
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\element-list = 1672769665077
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\help-doc.html = 1672769665305
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\index-all.html = 1672769665292
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\index.html = 1672769665223
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\jquery-ui.overrides.css = 1672769665379
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\member-search-index.js = 1672769665268
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\module-search-index.js = 1672769665258
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\overview-summary.html = 1672769665296
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\overview-tree.html = 1672769665215
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\package-search-index.js = 1672769665261
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\script.js = 1672769665314
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\search.js = 1672769665318
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\serialized-form.html = 1672769665161
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\stylesheet.css = 1672769665310
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\tag-search-index.js = 1672769665271
+C:\Users\NoName\Documents\NetBeansProjects\Login\target\site\apidocs\type-search-index.js = 1672769665264
